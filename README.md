@@ -77,7 +77,7 @@ Run tests:
 
 ---
 
-**Screenshots/Media**  
+**Media**  
 - [App APK](https://drive.google.com/file/d/16YbYZPqPBa4cDs_sDHAWcvwZF_vHGmPw/view?usp=drive_link)  
 - [App Demonstration](https://drive.google.com/file/d/15zSF4lqpjnoyVfDba0LqZ2lsxwvb09bx/view?usp=drive_link)  
 - [Explanation Video](https://drive.google.com/file/d/1LmZJzRR5u_5vZ8PRj71xjySVkLpi0duy/view?usp=drive_link)
