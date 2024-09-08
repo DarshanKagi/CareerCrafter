@@ -29,7 +29,7 @@ CareerCrafter is an app designed to help students prepare for software interview
 - [How to Install and Run](#how-to-install-and-run)
 - [How to Use the Project](#how-to-use-the-project)
 - [Tests](#tests)
-- [Screenshots/Media](#screenshotsmedia)
+- [APK File and Media](#apkfileandmedia)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [License](#license)
@@ -78,7 +78,7 @@ Run tests:
   flutter test
   ```
 
-## Screenshots/Media
+## APK File and Media
 
 - [App APK](https://drive.google.com/file/d/16YbYZPqPBa4cDs_sDHAWcvwZF_vHGmPw/view?usp=drive_link)
 - [App Demonstration](https://drive.google.com/file/d/15zSF4lqpjnoyVfDba0LqZ2lsxwvb09bx/view?usp=drive_link)
