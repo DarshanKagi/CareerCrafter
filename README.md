@@ -104,13 +104,13 @@ This project is a part of "Social Innovation in Practice" under the Center for E
 
 Team Members:
 - Darshan S Kagi (Team Leader)
-- Kudupudi Sai Durga Ram
 - P Sharath Kumar Reddy
+- Kudupudi Sai Durga Ram
 - Yedla Nikhitha
 - Varnika Pandey
 - J Krishna Priya
 
-## Author
+## Author 
 
 - **Darshan S. Kagi**
   - Email: darshankagi04@gmail.com
@@ -122,8 +122,18 @@ Team Members:
 - LinkedIn: [Darshan Kagi](https://www.linkedin.com/in/darshan-kagi-938836255)
 - GitHub: [DarshanKagi](https://github.com/DarshanKagi)
 
+- **P Sharath Kumar Reddy**
+  - Email: sharathkumarr924@gmail.com
+  - LinkedIn: [sharath kumar reddy](https://www.linkedin.com/in/sharath-kumar-reddy-software-engineer)
+  - GitHub: [sharath-66b6](https://github.com/sharath-66b6)
+
+## Connect with Me
+
+  - LinkedIn: [sharath kumar reddy](https://www.linkedin.com/in/sharath-kumar-reddy-software-engineer)
+  - GitHub: [sharath-66b6](https://github.com/sharath-66b6)
+
 ---
 
-Developed with ❤️ by Darshan S Kagi and team
+Developed with ❤️ by Darshan S Kagi, P Sharath Kumar Reddy and team
 
 ---
