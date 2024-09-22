@@ -110,29 +110,24 @@ Team Members:
 - Varnika Pandey
 - J Krishna Priya
 
-## Author 
+## Authors
 
-- **Darshan S. Kagi**
-  - Email: darshankagi04@gmail.com
-  - LinkedIn: [www.linkedin.com/in/darshan-kagi-938836255](https://www.linkedin.com/in/darshan-kagi-938836255)
-  - GitHub: [DarshanKagi](https://github.com/DarshanKagi)
+### 1. Darshan S. Kagi
+- **Email:** darshankagi04@gmail.com
+- **LinkedIn:** [Darshan Kagi](https://www.linkedin.com/in/darshan-kagi-938836255)
+- **GitHub:** [DarshanKagi](https://github.com/DarshanKagi)
+
+### 2. P Sharath Kumar Reddy
+- **Email:** sharathkumarr924@gmail.com
+- **LinkedIn:** [Sharath Kumar Reddy](https://www.linkedin.com/in/sharath-kumar-reddy-software-engineer)
+- **GitHub:** [sharath-66b6](https://github.com/sharath-66b6)
+
 
 ## Connect with Me
 
 - LinkedIn: [Darshan Kagi](https://www.linkedin.com/in/darshan-kagi-938836255)
 - GitHub: [DarshanKagi](https://github.com/DarshanKagi)
 
-
-
-- **P Sharath Kumar Reddy**
-  - Email: sharathkumarr924@gmail.com
-  - LinkedIn: [sharath kumar reddy](https://www.linkedin.com/in/sharath-kumar-reddy-software-engineer)
-  - GitHub: [sharath-66b6](https://github.com/sharath-66b6)
-
-## Connect with Me
-
-  - LinkedIn: [sharath kumar reddy](https://www.linkedin.com/in/sharath-kumar-reddy-software-engineer)
-  - GitHub: [sharath-66b6](https://github.com/sharath-66b6)
 
 ---
 
